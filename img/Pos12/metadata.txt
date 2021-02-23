@@ -1,0 +1,4221 @@
+{
+"Summary": {
+  "Prefix": "2021-02-23-pils2-5-1006-1005_1",
+  "UserName": "Labb21",
+  "ProfileName": "Default User",
+  "MicroManagerVersion": "2.0.0-gamma1 20200614",
+  "ComputerName": "Labb21-PC",
+  "Directory": "D:\\Data\\Sara\\2021-02-23-pils2-5-1006-1005",
+  "ChannelGroup": "CHANNELS",
+  "ChNames": [
+    "DIC10x",
+    "PolarEGFP",
+    "mCherry40x"
+  ],
+  "z-step_um": 0.0,
+  "Interval_ms": 0.0,
+  "CustomIntervals_ms": [],
+  "AxisOrder": [
+    "channel",
+    "z",
+    "position",
+    "time"
+  ],
+  "TimeFirst": true,
+  "SlicesFirst": true,
+  "IntendedDimensions": {
+    "time": 1,
+    "position": 106,
+    "z": 1,
+    "channel": 3
+  },
+  "Frames": 1,
+  "Positions": 106,
+  "Slices": 1,
+  "Channels": 3,
+  "StartTime": "2021-02-23 11:05:30.186 +0100",
+  "StagePositions": [
+    {
+      "Label": "Pos0",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9615.155095
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            328.5,
+            10384.2001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos1",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9615.155095
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -1268.5,
+            12653.7998046875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos2",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9632.848345
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -1268.5,
+            10363.2001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos3",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9563.517440000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -10484.099609375,
+            10501.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos4",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9580.19856
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -10113.7001953125,
+            8380.400390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos5",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9548.015870000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -9166.599609375,
+            12004.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos6",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9548.525740000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18313.80078125,
+            11900.7001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos7",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9567.653475000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18077.599609375,
+            9785.2001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos8",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9560.153820000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -19847.0,
+            12484.900390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos9",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9582.907720000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -2586.800048828125,
+            2939.89990234375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos10",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9582.907720000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -2586.89990234375,
+            1540.0999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos11",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9582.907720000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -1721.800048828125,
+            1540.0999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos12",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9582.907720000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -8420.2998046875,
+            2238.89990234375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos13",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9582.907720000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -10484.599609375,
+            2014.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos14",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9582.907720000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -11986.400390625,
+            821.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos15",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9685.079580000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18438.5,
+            284.29998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos16",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9685.079580000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -19652.80078125,
+            284.29998779296875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos17",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9686.103125000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -20598.30078125,
+            1597.5999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos18",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9589.319145000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -837.5999755859375,
+            -7736.2998046875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos19",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9611.93987
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -2941.699951171875,
+            -8623.400390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos20",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9598.63759
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -2941.60009765625,
+            -7118.2001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos21",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9593.44757
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -8555.7001953125,
+            -7015.0
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos22",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9593.44757
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -9792.7998046875,
+            -7926.89990234375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos23",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9593.44757
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -11795.400390625,
+            -8534.0
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos24",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9593.44757
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18369.0,
+            -8476.099609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos25",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9593.44757
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18177.30078125,
+            -7123.7001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos26",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9593.44757
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -16855.80078125,
+            -6997.2001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos27",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9571.374765
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            26993.80078125,
+            -14982.7998046875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos28",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9577.668235000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            26993.80078125,
+            -16216.900390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos29",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9554.031575
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            26327.30078125,
+            -16781.30078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos30",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9566.428265
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            17243.5,
+            -16959.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos31",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9567.950265000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            17066.599609375,
+            -15271.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos32",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9561.679625
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            17288.5,
+            -14916.7001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos33",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9563.95882
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            9191.7998046875,
+            -14916.400390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos34",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9561.200195000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            7440.89990234375,
+            -15379.900390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos35",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9570.910555
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            6792.0,
+            -17193.0
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos36",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9541.984945
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            25090.30078125,
+            -23838.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos37",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9541.984945
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            25090.30078125,
+            -25166.69921875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos38",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9541.984945
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            23927.5,
+            -24736.0
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos39",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9531.536415
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            19014.099609375,
+            -24501.0
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos40",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9531.536415
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            15401.599609375,
+            -25755.900390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos41",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9528.073865
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            17437.599609375,
+            -24461.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos42",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9546.718365
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            9330.099609375,
+            -26153.69921875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos43",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9549.260105000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            7492.60009765625,
+            -25831.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos44",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9549.260105000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            6386.7001953125,
+            -26806.900390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos45",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9596.03497
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            23972.099609375,
+            -33189.80078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos46",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9584.722705
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            24956.400390625,
+            -33680.69921875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos47",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9596.03497
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            26368.5,
+            -33110.6015625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos48",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9511.582995
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            16672.19921875,
+            -34063.30078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos49",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9505.982035
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            17080.30078125,
+            -35031.30078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos50",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9512.001545000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            18315.599609375,
+            -34038.1015625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos51",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9523.317615
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            8693.7001953125,
+            -35255.69921875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos52",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9523.336640000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            9944.7998046875,
+            -35607.0
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos53",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9544.57615
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            7216.0,
+            -34540.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos54",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9578.34172
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -1760.300048828125,
+            -17306.80078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos55",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9587.542210000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -1496.5,
+            -15778.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos56",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9592.758865
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -973.0,
+            -14323.400390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos57",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9605.041405
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -8960.900390625,
+            -14323.400390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos58",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9602.278975000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -10021.099609375,
+            -14323.400390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos59",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9602.278975000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -11564.2998046875,
+            -15085.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos60",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9602.278975000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18736.5,
+            -15085.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos61",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9603.95698
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -20745.80078125,
+            -15085.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos62",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9603.95698
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -20753.0,
+            -17668.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos63",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9603.95698
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -8647.2998046875,
+            -24307.400390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos64",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9603.95698
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -9340.2998046875,
+            -25081.80078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos65",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9583.15885
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -7669.7001953125,
+            -25081.900390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos66",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9665.936625
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -16900.0,
+            -25081.900390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos67",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9665.936625
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18218.5,
+            -25081.900390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos68",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9665.936625
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18781.69921875,
+            -26151.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos69",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9649.879525
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -2074.199951171875,
+            -32650.30078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos70",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9628.716115000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -473.8999938964844,
+            -31871.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos71",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9607.765785000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -773.5,
+            -34411.19921875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos72",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9615.54701
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -711.2999877929688,
+            -33554.1015625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos73",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9563.030400000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -9478.0,
+            -34136.19921875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos74",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9559.236815
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -11618.2998046875,
+            -34553.69921875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos75",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9562.30745
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -10416.0,
+            -33799.30078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos76",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9566.283675
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18990.0,
+            -34681.69921875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos77",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9573.406635000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -19726.0,
+            -32552.099609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos78",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9579.909380000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -18610.400390625,
+            -33186.19921875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos79",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9563.604955
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -28740.0,
+            10091.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos80",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9575.85325
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -28181.0,
+            10735.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos81",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9575.85325
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -27140.69921875,
+            11373.2998046875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos83",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9657.010095000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -37678.1015625,
+            10335.0
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos84",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9657.010095000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -37397.0,
+            9407.7998046875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos85",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9645.95657
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -36985.3984375,
+            12492.0
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos86",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9619.721095
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -29489.30078125,
+            -16366.900390625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos87",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9610.429285
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -27591.5,
+            -16747.80078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos88",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9607.179815000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -26465.69921875,
+            -18185.0
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos89",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9597.526530000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -29675.0,
+            2968.39990234375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos90",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9597.526530000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -28309.099609375,
+            2968.39990234375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos91",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9597.526530000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -28309.400390625,
+            853.2999877929688
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos92",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9597.526530000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -38839.0,
+            853.4000244140625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos93",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9597.526530000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -38839.30078125,
+            2732.199951171875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos94",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9597.526530000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -36520.5,
+            2513.800048828125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos95",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9617.544635
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -29254.5,
+            -24221.599609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos96",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9617.544635
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -29773.69921875,
+            -25509.099609375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos97",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9603.922735
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -28347.099609375,
+            -24659.30078125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos98",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9603.922735
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -28976.69921875,
+            -7087.60009765625
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos99",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9611.589810000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -29956.900390625,
+            -6390.39990234375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos100",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9611.589810000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -26038.900390625,
+            -6390.2998046875
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos101",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9611.589810000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -37601.1015625,
+            -6390.2001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos102",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9611.589810000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -38546.30078125,
+            -6938.89990234375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos103",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9611.589810000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -35251.3984375,
+            -7376.7001953125
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos104",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9602.423565000001
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -29808.30078125,
+            -34710.5
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos105",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9610.72988
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -29808.599609375,
+            -35753.8984375
+          ]
+        }
+      ]
+    },
+    {
+      "Label": "Pos106",
+      "DefaultXYStage": "XYStage",
+      "DefaultZStage": "FocusDrive",
+      "GridRow": 0,
+      "GridCol": 0,
+      "DevicePositions": [
+        {
+          "Device": "FocusDrive",
+          "Position_um": [
+            9593.276345
+          ]
+        },
+        {
+          "Device": "Adaptive Focus Control Offset",
+          "Position_um": [
+            0.0
+          ]
+        },
+        {
+          "Device": "XYStage",
+          "Position_um": [
+            -25809.80078125,
+            -33736.5
+          ]
+        }
+      ]
+    }
+  ],
+  "KeepShutterOpenSlices": false,
+  "KeepShutterOpenChannels": false,
+  "PixelType": "GRAY16",
+  "Width": 0,
+  "Height": 0,
+  "UserData": {
+    "CameraTimeout": {
+      "type": "STRING",
+      "scalar": "20000"
+    },
+    "Depth": {
+      "type": "STRING",
+      "scalar": "2"
+    }
+  },
+  "IJType": 1
+},
+"Coords-Pos12/img_channel000_position012_time000000000_z000.tif": {
+  "Frame": 0,
+  "FrameIndex": 0,
+  "PositionIndex": 12,
+  "Slice": 0,
+  "SliceIndex": 0,
+  "ChannelIndex": 0
+},
+"Metadata-Pos12/img_channel000_position012_time000000000_z000.tif": {
+  "Width": 2048,
+  "Height": 2048,
+  "PixelType": "GRAY16",
+  "Frame": 0,
+  "FrameIndex": 0,
+  "PositionIndex": 12,
+  "Slice": 0,
+  "SliceIndex": 0,
+  "ChannelIndex": 0,
+  "UUID": "0ac40a72-629d-48b2-9e31-625f026166de",
+  "Camera": "HamamatsuHam_DCAM",
+  "Binning": 1,
+  "ROI": "0-0-2048-2048",
+  "BitDepth": 16,
+  "Exposure-ms": 73.0177,
+  "ElapsedTime-ms": 61649.0,
+  "ReceivedTime": "2021-02-23 11:06:31.930 +0100",
+  "PixelSizeUm": 0.0,
+  "PixelSizeAffine": "0.0;0.0;0.0;0.0;0.0;0.0",
+  "PositionName": "Pos12",
+  "XPositionUm": -8420.2998046875,
+  "YPositionUm": 2238.89990234375,
+  "ZPositionUm": 9582.907720000001,
+  "SidePort-Name": "Side Port",
+  "TL-Shutter-Name": "",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[2]": "0.0010",
+  "COM2-Description": "Serial port driver (boost:asio)",
+  "IL-Turret-Label": "2-gfpm_cherry",
+  "DIC Turret-Description": "DIC Prism Turret",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[1]": "0.0010",
+  "COM4-Description": "Serial port driver (boost:asio)",
+  "HamamatsuHam_DCAM-CameraID": "S/N: 100615",
+  "COM2-DelayBetweenCharsMs": "0.0000",
+  "HamamatsuHam_DCAM-Driver Version": "1.2.6.5609",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[0]": "0.0010",
+  "COM4-StopBits": "1",
+  "HamamatsuHam_DCAM-TransposeMirrorX": "0",
+  "FastFilterWheel-Filter Wheel ID": "0",
+  "HamamatsuHam_DCAM-ScanMode": "1",
+  "COM7-Name": "COM7",
+  "HamamatsuHam_DCAM-ReadoutTime": "0.0333",
+  "Scope-Description": "Leica microscope CAN bus adapter",
+  "HamamatsuHam_DCAM-TransposeMirrorY": "0",
+  "HamamatsuHam_DCAM-EXPOSURE FULL RANGE": "DISABLE",
+  "pE300-Global State": "0",
+  "pE300-SelectionA": "0",
+  "Scope-Name": "Scope",
+  "HamamatsuHam_DCAM-VIEW CONTROL": "FULL CHIP",
+  "COM7-Parity": "None",
+  "COM4-DelayBetweenCharsMs": "0.0000",
+  "COM2-StopBits": "1",
+  "COM4-Name": "COM4",
+  "Core-ImageProcessor": "",
+  "pE300-SelectionB": "0",
+  "COM7-BaudRate": "9600",
+  "HamamatsuHam_DCAM-TRIGGER SOURCE": "INTERNAL",
+  "COM7-Description": "Serial port driver (boost:asio)",
+  "DIC Turret-Name": "DIC Turret",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[2]": "READOUT END",
+  "pE300-SelectionC": "0",
+  "Core-SLM": "",
+  "COM2-Verbose": "1",
+  "HamamatsuHam_DCAM-TriggerPolarity": "NEGATIVE",
+  "HamamatsuHam_DCAM-Module Version": "18.8.642.5609",
+  "HamamatsuHam_DCAM-DEFECT CORRECT MODE": "ON",
+  "COM2-Name": "COM2",
+  "COM7-DelayBetweenCharsMs": "0.0000",
+  "SidePort-Description": "Side Port",
+  "COM4-Parity": "None",
+  "COM7-DataBits": "8",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[1]": "READOUT END",
+  "HamamatsuHam_DCAM-SENSOR MODE": "AREA",
+  "COM2-AnswerTimeout": "500.0000",
+  "TL-Shutter-Description": "",
+  "Adaptive Focus Control-DichroicMirrorIn": "1",
+  "HamamatsuHam_DCAM-Camera Bus": "USB3",
+  "COM4-Verbose": "1",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[2]": "0.0000",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[0]": "READOUT END",
+  "Transmitted Light-Description": "",
+  "COM4-BaudRate": "9600",
+  "TLPolarizer-State": "1",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[1]": "0.0000",
+  "Transmitted Light-Control": "Manual",
+  "COM4-AnswerTimeout": "500.0000",
+  "HamamatsuHam_DCAM-Exposure": "73.02",
+  "COM2-Parity": "None",
+  "IL-Turret-Description": "Incident Light Reflector Turret",
+  "COM2-BaudRate": "9600",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[0]": "0.0000",
+  "Core-Focus": "FocusDrive",
+  "COM4-DataBits": "8",
+  "Core-ChannelGroup": "CHANNELS",
+  "Adaptive Focus Control-LEDIntensity": "39",
+  "Scope-AnswerTimeOut": "250.0000",
+  "COM7-Verbose": "1",
+  "TLPolarizer-Label": "In",
+  "FastFilterWheel-State": "0",
+  "COM7-AnswerTimeout": "500.0000",
+  "FocusDrive-Speed": "8820000",
+  "XYStage-Description": "Tango XY stage driver adapter",
+  "COM2-DataBits": "8",
+  "pE300-Description": "CoolLED pE300. Mainboard: v2.2.9\r Pod: v2.0.1\r",
+  "Condensor-Name": "Condensor turret",
+  "HamamatsuHam_DCAM-Name": "HamamatsuHam_DCAM",
+  "ObjectiveTurret-State": "1",
+  "Adaptive Focus Control-Name": "Adaptive Focus Control",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[2]": "LOW",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY UNITS": "SECONDS",
+  "XYStage-StepSizeY [um]": "0.0024",
+  "ObjectiveTurret-Immersion Medium": "Dry",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[1]": "LOW",
+  "FastFilterWheel-Label": "DIC",
+  "Core-XYStage": "XYStage",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[0]": "LOW",
+  "Condensor-State": "3",
+  "ObjectiveTurret-Name": "Objective turret",
+  "XYStage-StepSizeX [um]": "0.0024",
+  "Adaptive Focus Control Offset-Name": "Adaptive Focus Control Offset",
+  "pE300-Port": "COM4",
+  "Core-AutoShutter": "1",
+  "HamamatsuHam_DCAM-TRIGGER ACTIVE": "EDGE",
+  "Transmitted Light-Level": "116",
+  "XYStage-TransposeMirrorX": "0",
+  "HamamatsuHam_DCAM-CONVERSION FACTOR COEFF": "0.4700",
+  "COM7-Fast USB to Serial": "Disable",
+  "ObjectiveTurret-Label": "2-10x 0.32na",
+  "XYStage-Backlash Y [um]": "0.0000",
+  "FastFilterWheel-Name": "FastFilterWheel",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[2]": "NEGATIVE",
+  "XYStage-TransposeMirrorY": "0",
+  "XYStage-Backlash X [um]": "0.0000",
+  "XYStage-Port": "COM2",
+  "HamamatsuHam_DCAM-CameraName": "C11440-42U",
+  "Scope-Microscope Firmware": "XE167FH200F100L_MASTER.HEX V02.41.8451",
+  "Condensor-Label": "3-K11",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[1]": "NEGATIVE",
+  "TL-ApertureDiaphragm-Position": "24",
+  "COM4-Fast USB to Serial": "Disable",
+  "Core-Camera": "HamamatsuHam_DCAM",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[0]": "NEGATIVE",
+  "TLPolarizer-Description": "Transmitted light Polarizer",
+  "HamamatsuHam_DCAM-EXPOSURE TIME UNITS": "MILLISECONDS",
+  "TLPolarizer-Name": "TL Polarizer",
+  "Adaptive Focus Control-FullFocusTime": "300",
+  "TL-ApertureDiaphragm-Name": "TL-ApertureDiaphragm",
+  "HamamatsuHam_DCAM-READOUT DIRECTION": "DIVERGE",
+  "HamamatsuHam_DCAM-TransposeCorrection": "0",
+  "DIC Turret-Prism Fine Position": "0.0000",
+  "Adaptive Focus Control-Offset": "0.0000",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD UNITS": "SECONDS",
+  "COM2-Fast USB to Serial": "Disable",
+  "HamamatsuHam_DCAM-Trigger": "NORMAL",
+  "DIC Turret-State": "3",
+  "FastFilterWheel-Description": "Fast Filter Wheel",
+  "ObjectiveTurret-Article Number": "11506521",
+  "Adaptive Focus Control Offset-Description": "Leica Adaptive Focus Control Offset",
+  "COM2-Handshaking": "Off",
+  "HamamatsuHam_DCAM-TransposeXY": "0",
+  "ObjectiveTurret-Description": "Objective Turret",
+  "DIC Turret-Label": "2-D",
+  "HamamatsuHam_DCAM-Binning": "1x1",
+  "HamamatsuHam_DCAM-TRIGGER DELAY": "0.0000",
+  "Core-TimeoutMs": "5000",
+  "Scope-Port": "COM7",
+  "HamamatsuHam_DCAM-TRIGGER GLOBAL EXPOSURE": "DELAYED",
+  "Scope-Method": "FLUO",
+  "Adaptive Focus Control-Description": "Leica Adaptive Focus Control (Hardware autofocus)",
+  "COM4-Handshaking": "Off",
+  "HamamatsuHam_DCAM-Description": "Hamamatsu device adapter 1.9.2.56",
+  "Condensor-Description": "Conensor Turret",
+  "pE300-Name": "pE300",
+  "HamamatsuHam_DCAM-MINIMUM ACQUISITION TIMEOUT": "60000",
+  "XYStage-Name": "XYStage",
+  "XYStage-Acceleration X [m/s^2]": "0.1200",
+  "FocusDrive-Acceleration": "3612",
+  "Core-AutoFocus": "Adaptive Focus Control",
+  "HamamatsuHam_DCAM-CONVERSION FACTOR OFFSET": "100.0000",
+  "SidePort-State": "0",
+  "HamamatsuHam_DCAM-VIEW MODE": "FULL CHIP",
+  "XYStage-Acceleration Y [m/s^2]": "0.1200",
+  "HamamatsuHam_DCAM-TRIGGER TIMES": "1",
+  "XYStage-SpeedY [mm/s]": "120.0000",
+  "TL-Shutter-State": "0",
+  "pE300-IntensityA": "0",
+  "Core-Galvo": "",
+  "XYStage-SpeedX [mm/s]": "120.0000",
+  "COM7-Handshaking": "Off",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER CHANNEL SYNC": "1 CHANNEL",
+  "Transmitted Light-State": "1",
+  "pE300-IntensityB": "2",
+  "HamamatsuHam_DCAM-PixelType": "16bit",
+  "IL-Turret-State": "1",
+  "Core-Initialize": "1",
+  "Adaptive Focus Control-LockThreshold": "3.0000",
+  "IL-Turret-Name": "Dichroics turret",
+  "pE300-IntensityC": "15",
+  "Scope-Microscope Stand": "DMI8",
+  "COM7-StopBits": "1",
+  "Transmitted Light-Name": "",
+  "HamamatsuHam_DCAM-Camera Version": "3.20.A",
+  "pE300-Lock Pod": "0",
+  "SidePort-Label": "1",
+  "Core-Shutter": "TL-Shutter",
+  "ScopeDataKeys": [
+    "SidePort-Name",
+    "TL-Shutter-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[2]",
+    "COM2-Description",
+    "IL-Turret-Label",
+    "DIC Turret-Description",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[1]",
+    "COM4-Description",
+    "HamamatsuHam_DCAM-CameraID",
+    "COM2-DelayBetweenCharsMs",
+    "HamamatsuHam_DCAM-Driver Version",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[0]",
+    "COM4-StopBits",
+    "HamamatsuHam_DCAM-TransposeMirrorX",
+    "FastFilterWheel-Filter Wheel ID",
+    "HamamatsuHam_DCAM-ScanMode",
+    "COM7-Name",
+    "HamamatsuHam_DCAM-ReadoutTime",
+    "Scope-Description",
+    "HamamatsuHam_DCAM-TransposeMirrorY",
+    "HamamatsuHam_DCAM-EXPOSURE FULL RANGE",
+    "pE300-Global State",
+    "pE300-SelectionA",
+    "Scope-Name",
+    "HamamatsuHam_DCAM-VIEW CONTROL",
+    "COM7-Parity",
+    "COM4-DelayBetweenCharsMs",
+    "COM2-StopBits",
+    "COM4-Name",
+    "Core-ImageProcessor",
+    "pE300-SelectionB",
+    "COM7-BaudRate",
+    "HamamatsuHam_DCAM-TRIGGER SOURCE",
+    "COM7-Description",
+    "DIC Turret-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[2]",
+    "pE300-SelectionC",
+    "Core-SLM",
+    "COM2-Verbose",
+    "HamamatsuHam_DCAM-TriggerPolarity",
+    "HamamatsuHam_DCAM-Module Version",
+    "HamamatsuHam_DCAM-DEFECT CORRECT MODE",
+    "COM2-Name",
+    "COM7-DelayBetweenCharsMs",
+    "SidePort-Description",
+    "COM4-Parity",
+    "COM7-DataBits",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[1]",
+    "HamamatsuHam_DCAM-SENSOR MODE",
+    "COM2-AnswerTimeout",
+    "TL-Shutter-Description",
+    "Adaptive Focus Control-DichroicMirrorIn",
+    "HamamatsuHam_DCAM-Camera Bus",
+    "COM4-Verbose",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[2]",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[0]",
+    "Transmitted Light-Description",
+    "COM4-BaudRate",
+    "TLPolarizer-State",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[1]",
+    "Transmitted Light-Control",
+    "COM4-AnswerTimeout",
+    "HamamatsuHam_DCAM-Exposure",
+    "COM2-Parity",
+    "IL-Turret-Description",
+    "COM2-BaudRate",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[0]",
+    "Core-Focus",
+    "COM4-DataBits",
+    "Core-ChannelGroup",
+    "Adaptive Focus Control-LEDIntensity",
+    "Scope-AnswerTimeOut",
+    "COM7-Verbose",
+    "TLPolarizer-Label",
+    "FastFilterWheel-State",
+    "COM7-AnswerTimeout",
+    "FocusDrive-Speed",
+    "XYStage-Description",
+    "COM2-DataBits",
+    "pE300-Description",
+    "Condensor-Name",
+    "HamamatsuHam_DCAM-Name",
+    "ObjectiveTurret-State",
+    "Adaptive Focus Control-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[2]",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY UNITS",
+    "XYStage-StepSizeY [um]",
+    "ObjectiveTurret-Immersion Medium",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[1]",
+    "FastFilterWheel-Label",
+    "Core-XYStage",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[0]",
+    "Condensor-State",
+    "ObjectiveTurret-Name",
+    "XYStage-StepSizeX [um]",
+    "Adaptive Focus Control Offset-Name",
+    "pE300-Port",
+    "Core-AutoShutter",
+    "HamamatsuHam_DCAM-TRIGGER ACTIVE",
+    "Transmitted Light-Level",
+    "XYStage-TransposeMirrorX",
+    "HamamatsuHam_DCAM-CONVERSION FACTOR COEFF",
+    "COM7-Fast USB to Serial",
+    "ObjectiveTurret-Label",
+    "XYStage-Backlash Y [um]",
+    "FastFilterWheel-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[2]",
+    "XYStage-TransposeMirrorY",
+    "XYStage-Backlash X [um]",
+    "XYStage-Port",
+    "HamamatsuHam_DCAM-CameraName",
+    "Scope-Microscope Firmware",
+    "Condensor-Label",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[1]",
+    "TL-ApertureDiaphragm-Position",
+    "COM4-Fast USB to Serial",
+    "Core-Camera",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[0]",
+    "TLPolarizer-Description",
+    "HamamatsuHam_DCAM-EXPOSURE TIME UNITS",
+    "TLPolarizer-Name",
+    "Adaptive Focus Control-FullFocusTime",
+    "TL-ApertureDiaphragm-Name",
+    "HamamatsuHam_DCAM-READOUT DIRECTION",
+    "HamamatsuHam_DCAM-TransposeCorrection",
+    "DIC Turret-Prism Fine Position",
+    "Adaptive Focus Control-Offset",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD UNITS",
+    "COM2-Fast USB to Serial",
+    "HamamatsuHam_DCAM-Trigger",
+    "DIC Turret-State",
+    "FastFilterWheel-Description",
+    "ObjectiveTurret-Article Number",
+    "Adaptive Focus Control Offset-Description",
+    "COM2-Handshaking",
+    "HamamatsuHam_DCAM-TransposeXY",
+    "ObjectiveTurret-Description",
+    "DIC Turret-Label",
+    "HamamatsuHam_DCAM-Binning",
+    "HamamatsuHam_DCAM-TRIGGER DELAY",
+    "Core-TimeoutMs",
+    "Scope-Port",
+    "HamamatsuHam_DCAM-TRIGGER GLOBAL EXPOSURE",
+    "Scope-Method",
+    "Adaptive Focus Control-Description",
+    "COM4-Handshaking",
+    "HamamatsuHam_DCAM-Description",
+    "Condensor-Description",
+    "pE300-Name",
+    "HamamatsuHam_DCAM-MINIMUM ACQUISITION TIMEOUT",
+    "XYStage-Name",
+    "XYStage-Acceleration X [m/s^2]",
+    "FocusDrive-Acceleration",
+    "Core-AutoFocus",
+    "HamamatsuHam_DCAM-CONVERSION FACTOR OFFSET",
+    "SidePort-State",
+    "HamamatsuHam_DCAM-VIEW MODE",
+    "XYStage-Acceleration Y [m/s^2]",
+    "HamamatsuHam_DCAM-TRIGGER TIMES",
+    "XYStage-SpeedY [mm/s]",
+    "TL-Shutter-State",
+    "pE300-IntensityA",
+    "Core-Galvo",
+    "XYStage-SpeedX [mm/s]",
+    "COM7-Handshaking",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER CHANNEL SYNC",
+    "Transmitted Light-State",
+    "pE300-IntensityB",
+    "HamamatsuHam_DCAM-PixelType",
+    "IL-Turret-State",
+    "Core-Initialize",
+    "Adaptive Focus Control-LockThreshold",
+    "IL-Turret-Name",
+    "pE300-IntensityC",
+    "Scope-Microscope Stand",
+    "COM7-StopBits",
+    "Transmitted Light-Name",
+    "HamamatsuHam_DCAM-Camera Version",
+    "pE300-Lock Pod",
+    "SidePort-Label",
+    "Core-Shutter"
+  ],
+  "UserData": {},
+  "FileName": "Pos12/img_channel000_position012_time000000000_z000.tif"
+},
+"Coords-Pos12/img_channel001_position012_time000000000_z000.tif": {
+  "Frame": 0,
+  "FrameIndex": 0,
+  "PositionIndex": 12,
+  "Slice": 0,
+  "SliceIndex": 0,
+  "ChannelIndex": 1
+},
+"Metadata-Pos12/img_channel001_position012_time000000000_z000.tif": {
+  "Width": 2048,
+  "Height": 2048,
+  "PixelType": "GRAY16",
+  "Frame": 0,
+  "FrameIndex": 0,
+  "PositionIndex": 12,
+  "Slice": 0,
+  "SliceIndex": 0,
+  "ChannelIndex": 1,
+  "UUID": "ef4298e4-a4b3-41c1-87c4-76465967e9ca",
+  "Camera": "HamamatsuHam_DCAM",
+  "Binning": 1,
+  "ROI": "0-0-2048-2048",
+  "BitDepth": 16,
+  "Exposure-ms": 300.06129999999996,
+  "ElapsedTime-ms": 63236.0,
+  "ReceivedTime": "2021-02-23 11:06:33.516 +0100",
+  "PixelSizeUm": 0.0,
+  "PixelSizeAffine": "0.0;0.0;0.0;0.0;0.0;0.0",
+  "PositionName": "Pos12",
+  "XPositionUm": -8420.2998046875,
+  "YPositionUm": 2238.89990234375,
+  "ZPositionUm": 9582.907720000001,
+  "SidePort-Name": "Side Port",
+  "TL-Shutter-Name": "",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[2]": "0.0010",
+  "COM2-Description": "Serial port driver (boost:asio)",
+  "IL-Turret-Label": "2-gfpm_cherry",
+  "DIC Turret-Description": "DIC Prism Turret",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[1]": "0.0010",
+  "COM4-Description": "Serial port driver (boost:asio)",
+  "HamamatsuHam_DCAM-CameraID": "S/N: 100615",
+  "COM2-DelayBetweenCharsMs": "0.0000",
+  "HamamatsuHam_DCAM-Driver Version": "1.2.6.5609",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[0]": "0.0010",
+  "COM4-StopBits": "1",
+  "HamamatsuHam_DCAM-TransposeMirrorX": "0",
+  "FastFilterWheel-Filter Wheel ID": "0",
+  "HamamatsuHam_DCAM-ScanMode": "1",
+  "COM7-Name": "COM7",
+  "HamamatsuHam_DCAM-ReadoutTime": "0.0333",
+  "Scope-Description": "Leica microscope CAN bus adapter",
+  "HamamatsuHam_DCAM-TransposeMirrorY": "0",
+  "HamamatsuHam_DCAM-EXPOSURE FULL RANGE": "DISABLE",
+  "pE300-Global State": "0",
+  "pE300-SelectionA": "0",
+  "Scope-Name": "Scope",
+  "HamamatsuHam_DCAM-VIEW CONTROL": "FULL CHIP",
+  "COM7-Parity": "None",
+  "COM4-DelayBetweenCharsMs": "0.0000",
+  "COM2-StopBits": "1",
+  "COM4-Name": "COM4",
+  "Core-ImageProcessor": "",
+  "pE300-SelectionB": "1",
+  "COM7-BaudRate": "9600",
+  "HamamatsuHam_DCAM-TRIGGER SOURCE": "INTERNAL",
+  "COM7-Description": "Serial port driver (boost:asio)",
+  "DIC Turret-Name": "DIC Turret",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[2]": "READOUT END",
+  "pE300-SelectionC": "0",
+  "Core-SLM": "",
+  "COM2-Verbose": "1",
+  "HamamatsuHam_DCAM-TriggerPolarity": "NEGATIVE",
+  "HamamatsuHam_DCAM-Module Version": "18.8.642.5609",
+  "HamamatsuHam_DCAM-DEFECT CORRECT MODE": "ON",
+  "COM2-Name": "COM2",
+  "COM7-DelayBetweenCharsMs": "0.0000",
+  "SidePort-Description": "Side Port",
+  "COM4-Parity": "None",
+  "COM7-DataBits": "8",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[1]": "READOUT END",
+  "HamamatsuHam_DCAM-SENSOR MODE": "AREA",
+  "COM2-AnswerTimeout": "500.0000",
+  "TL-Shutter-Description": "",
+  "Adaptive Focus Control-DichroicMirrorIn": "1",
+  "HamamatsuHam_DCAM-Camera Bus": "USB3",
+  "COM4-Verbose": "1",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[2]": "0.0000",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[0]": "READOUT END",
+  "Transmitted Light-Description": "",
+  "COM4-BaudRate": "9600",
+  "TLPolarizer-State": "1",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[1]": "0.0000",
+  "Transmitted Light-Control": "Manual",
+  "COM4-AnswerTimeout": "500.0000",
+  "HamamatsuHam_DCAM-Exposure": "300.06",
+  "COM2-Parity": "None",
+  "IL-Turret-Description": "Incident Light Reflector Turret",
+  "COM2-BaudRate": "9600",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[0]": "0.0000",
+  "Core-Focus": "FocusDrive",
+  "COM4-DataBits": "8",
+  "Core-ChannelGroup": "CHANNELS",
+  "Adaptive Focus Control-LEDIntensity": "39",
+  "Scope-AnswerTimeOut": "250.0000",
+  "COM7-Verbose": "1",
+  "TLPolarizer-Label": "In",
+  "FastFilterWheel-State": "0",
+  "COM7-AnswerTimeout": "500.0000",
+  "FocusDrive-Speed": "8820000",
+  "XYStage-Description": "Tango XY stage driver adapter",
+  "COM2-DataBits": "8",
+  "pE300-Description": "CoolLED pE300. Mainboard: v2.2.9\r Pod: v2.0.1\r",
+  "Condensor-Name": "Condensor turret",
+  "HamamatsuHam_DCAM-Name": "HamamatsuHam_DCAM",
+  "ObjectiveTurret-State": "1",
+  "Adaptive Focus Control-Name": "Adaptive Focus Control",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[2]": "LOW",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY UNITS": "SECONDS",
+  "XYStage-StepSizeY [um]": "0.0024",
+  "ObjectiveTurret-Immersion Medium": "Dry",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[1]": "LOW",
+  "FastFilterWheel-Label": "Green",
+  "Core-XYStage": "XYStage",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[0]": "LOW",
+  "Condensor-State": "3",
+  "ObjectiveTurret-Name": "Objective turret",
+  "XYStage-StepSizeX [um]": "0.0024",
+  "Adaptive Focus Control Offset-Name": "Adaptive Focus Control Offset",
+  "pE300-Port": "COM4",
+  "Core-AutoShutter": "1",
+  "HamamatsuHam_DCAM-TRIGGER ACTIVE": "EDGE",
+  "Transmitted Light-Level": "116",
+  "XYStage-TransposeMirrorX": "0",
+  "HamamatsuHam_DCAM-CONVERSION FACTOR COEFF": "0.4700",
+  "COM7-Fast USB to Serial": "Disable",
+  "ObjectiveTurret-Label": "2-10x 0.32na",
+  "XYStage-Backlash Y [um]": "0.0000",
+  "FastFilterWheel-Name": "FastFilterWheel",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[2]": "NEGATIVE",
+  "XYStage-TransposeMirrorY": "0",
+  "XYStage-Backlash X [um]": "0.0000",
+  "XYStage-Port": "COM2",
+  "HamamatsuHam_DCAM-CameraName": "C11440-42U",
+  "Scope-Microscope Firmware": "XE167FH200F100L_MASTER.HEX V02.41.8451",
+  "Condensor-Label": "4--",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[1]": "NEGATIVE",
+  "TL-ApertureDiaphragm-Position": "24",
+  "COM4-Fast USB to Serial": "Disable",
+  "Core-Camera": "HamamatsuHam_DCAM",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[0]": "NEGATIVE",
+  "TLPolarizer-Description": "Transmitted light Polarizer",
+  "HamamatsuHam_DCAM-EXPOSURE TIME UNITS": "MILLISECONDS",
+  "TLPolarizer-Name": "TL Polarizer",
+  "Adaptive Focus Control-FullFocusTime": "300",
+  "TL-ApertureDiaphragm-Name": "TL-ApertureDiaphragm",
+  "HamamatsuHam_DCAM-READOUT DIRECTION": "DIVERGE",
+  "HamamatsuHam_DCAM-TransposeCorrection": "0",
+  "DIC Turret-Prism Fine Position": "0.0000",
+  "Adaptive Focus Control-Offset": "0.0000",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD UNITS": "SECONDS",
+  "COM2-Fast USB to Serial": "Disable",
+  "HamamatsuHam_DCAM-Trigger": "NORMAL",
+  "DIC Turret-State": "3",
+  "FastFilterWheel-Description": "Fast Filter Wheel",
+  "ObjectiveTurret-Article Number": "11506521",
+  "Adaptive Focus Control Offset-Description": "Leica Adaptive Focus Control Offset",
+  "COM2-Handshaking": "Off",
+  "HamamatsuHam_DCAM-TransposeXY": "0",
+  "ObjectiveTurret-Description": "Objective Turret",
+  "DIC Turret-Label": "4--",
+  "HamamatsuHam_DCAM-Binning": "1x1",
+  "HamamatsuHam_DCAM-TRIGGER DELAY": "0.0000",
+  "Core-TimeoutMs": "5000",
+  "Scope-Port": "COM7",
+  "HamamatsuHam_DCAM-TRIGGER GLOBAL EXPOSURE": "DELAYED",
+  "Scope-Method": "FLUO",
+  "Adaptive Focus Control-Description": "Leica Adaptive Focus Control (Hardware autofocus)",
+  "COM4-Handshaking": "Off",
+  "HamamatsuHam_DCAM-Description": "Hamamatsu device adapter 1.9.2.56",
+  "Condensor-Description": "Conensor Turret",
+  "pE300-Name": "pE300",
+  "HamamatsuHam_DCAM-MINIMUM ACQUISITION TIMEOUT": "60000",
+  "XYStage-Name": "XYStage",
+  "XYStage-Acceleration X [m/s^2]": "0.1200",
+  "FocusDrive-Acceleration": "3612",
+  "Core-AutoFocus": "Adaptive Focus Control",
+  "HamamatsuHam_DCAM-CONVERSION FACTOR OFFSET": "100.0000",
+  "SidePort-State": "0",
+  "HamamatsuHam_DCAM-VIEW MODE": "FULL CHIP",
+  "XYStage-Acceleration Y [m/s^2]": "0.1200",
+  "HamamatsuHam_DCAM-TRIGGER TIMES": "1",
+  "XYStage-SpeedY [mm/s]": "120.0000",
+  "TL-Shutter-State": "0",
+  "pE300-IntensityA": "0",
+  "Core-Galvo": "",
+  "XYStage-SpeedX [mm/s]": "120.0000",
+  "COM7-Handshaking": "Off",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER CHANNEL SYNC": "1 CHANNEL",
+  "Transmitted Light-State": "0",
+  "pE300-IntensityB": "2",
+  "HamamatsuHam_DCAM-PixelType": "16bit",
+  "IL-Turret-State": "1",
+  "Core-Initialize": "1",
+  "Adaptive Focus Control-LockThreshold": "3.0000",
+  "IL-Turret-Name": "Dichroics turret",
+  "pE300-IntensityC": "15",
+  "Scope-Microscope Stand": "DMI8",
+  "COM7-StopBits": "1",
+  "Transmitted Light-Name": "",
+  "HamamatsuHam_DCAM-Camera Version": "3.20.A",
+  "pE300-Lock Pod": "0",
+  "SidePort-Label": "1",
+  "Core-Shutter": "pE300",
+  "ScopeDataKeys": [
+    "SidePort-Name",
+    "TL-Shutter-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[2]",
+    "COM2-Description",
+    "IL-Turret-Label",
+    "DIC Turret-Description",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[1]",
+    "COM4-Description",
+    "HamamatsuHam_DCAM-CameraID",
+    "COM2-DelayBetweenCharsMs",
+    "HamamatsuHam_DCAM-Driver Version",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[0]",
+    "COM4-StopBits",
+    "HamamatsuHam_DCAM-TransposeMirrorX",
+    "FastFilterWheel-Filter Wheel ID",
+    "HamamatsuHam_DCAM-ScanMode",
+    "COM7-Name",
+    "HamamatsuHam_DCAM-ReadoutTime",
+    "Scope-Description",
+    "HamamatsuHam_DCAM-TransposeMirrorY",
+    "HamamatsuHam_DCAM-EXPOSURE FULL RANGE",
+    "pE300-Global State",
+    "pE300-SelectionA",
+    "Scope-Name",
+    "HamamatsuHam_DCAM-VIEW CONTROL",
+    "COM7-Parity",
+    "COM4-DelayBetweenCharsMs",
+    "COM2-StopBits",
+    "COM4-Name",
+    "Core-ImageProcessor",
+    "pE300-SelectionB",
+    "COM7-BaudRate",
+    "HamamatsuHam_DCAM-TRIGGER SOURCE",
+    "COM7-Description",
+    "DIC Turret-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[2]",
+    "pE300-SelectionC",
+    "Core-SLM",
+    "COM2-Verbose",
+    "HamamatsuHam_DCAM-TriggerPolarity",
+    "HamamatsuHam_DCAM-Module Version",
+    "HamamatsuHam_DCAM-DEFECT CORRECT MODE",
+    "COM2-Name",
+    "COM7-DelayBetweenCharsMs",
+    "SidePort-Description",
+    "COM4-Parity",
+    "COM7-DataBits",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[1]",
+    "HamamatsuHam_DCAM-SENSOR MODE",
+    "COM2-AnswerTimeout",
+    "TL-Shutter-Description",
+    "Adaptive Focus Control-DichroicMirrorIn",
+    "HamamatsuHam_DCAM-Camera Bus",
+    "COM4-Verbose",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[2]",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[0]",
+    "Transmitted Light-Description",
+    "COM4-BaudRate",
+    "TLPolarizer-State",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[1]",
+    "Transmitted Light-Control",
+    "COM4-AnswerTimeout",
+    "HamamatsuHam_DCAM-Exposure",
+    "COM2-Parity",
+    "IL-Turret-Description",
+    "COM2-BaudRate",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[0]",
+    "Core-Focus",
+    "COM4-DataBits",
+    "Core-ChannelGroup",
+    "Adaptive Focus Control-LEDIntensity",
+    "Scope-AnswerTimeOut",
+    "COM7-Verbose",
+    "TLPolarizer-Label",
+    "FastFilterWheel-State",
+    "COM7-AnswerTimeout",
+    "FocusDrive-Speed",
+    "XYStage-Description",
+    "COM2-DataBits",
+    "pE300-Description",
+    "Condensor-Name",
+    "HamamatsuHam_DCAM-Name",
+    "ObjectiveTurret-State",
+    "Adaptive Focus Control-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[2]",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY UNITS",
+    "XYStage-StepSizeY [um]",
+    "ObjectiveTurret-Immersion Medium",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[1]",
+    "FastFilterWheel-Label",
+    "Core-XYStage",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[0]",
+    "Condensor-State",
+    "ObjectiveTurret-Name",
+    "XYStage-StepSizeX [um]",
+    "Adaptive Focus Control Offset-Name",
+    "pE300-Port",
+    "Core-AutoShutter",
+    "HamamatsuHam_DCAM-TRIGGER ACTIVE",
+    "Transmitted Light-Level",
+    "XYStage-TransposeMirrorX",
+    "HamamatsuHam_DCAM-CONVERSION FACTOR COEFF",
+    "COM7-Fast USB to Serial",
+    "ObjectiveTurret-Label",
+    "XYStage-Backlash Y [um]",
+    "FastFilterWheel-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[2]",
+    "XYStage-TransposeMirrorY",
+    "XYStage-Backlash X [um]",
+    "XYStage-Port",
+    "HamamatsuHam_DCAM-CameraName",
+    "Scope-Microscope Firmware",
+    "Condensor-Label",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[1]",
+    "TL-ApertureDiaphragm-Position",
+    "COM4-Fast USB to Serial",
+    "Core-Camera",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[0]",
+    "TLPolarizer-Description",
+    "HamamatsuHam_DCAM-EXPOSURE TIME UNITS",
+    "TLPolarizer-Name",
+    "Adaptive Focus Control-FullFocusTime",
+    "TL-ApertureDiaphragm-Name",
+    "HamamatsuHam_DCAM-READOUT DIRECTION",
+    "HamamatsuHam_DCAM-TransposeCorrection",
+    "DIC Turret-Prism Fine Position",
+    "Adaptive Focus Control-Offset",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD UNITS",
+    "COM2-Fast USB to Serial",
+    "HamamatsuHam_DCAM-Trigger",
+    "DIC Turret-State",
+    "FastFilterWheel-Description",
+    "ObjectiveTurret-Article Number",
+    "Adaptive Focus Control Offset-Description",
+    "COM2-Handshaking",
+    "HamamatsuHam_DCAM-TransposeXY",
+    "ObjectiveTurret-Description",
+    "DIC Turret-Label",
+    "HamamatsuHam_DCAM-Binning",
+    "HamamatsuHam_DCAM-TRIGGER DELAY",
+    "Core-TimeoutMs",
+    "Scope-Port",
+    "HamamatsuHam_DCAM-TRIGGER GLOBAL EXPOSURE",
+    "Scope-Method",
+    "Adaptive Focus Control-Description",
+    "COM4-Handshaking",
+    "HamamatsuHam_DCAM-Description",
+    "Condensor-Description",
+    "pE300-Name",
+    "HamamatsuHam_DCAM-MINIMUM ACQUISITION TIMEOUT",
+    "XYStage-Name",
+    "XYStage-Acceleration X [m/s^2]",
+    "FocusDrive-Acceleration",
+    "Core-AutoFocus",
+    "HamamatsuHam_DCAM-CONVERSION FACTOR OFFSET",
+    "SidePort-State",
+    "HamamatsuHam_DCAM-VIEW MODE",
+    "XYStage-Acceleration Y [m/s^2]",
+    "HamamatsuHam_DCAM-TRIGGER TIMES",
+    "XYStage-SpeedY [mm/s]",
+    "TL-Shutter-State",
+    "pE300-IntensityA",
+    "Core-Galvo",
+    "XYStage-SpeedX [mm/s]",
+    "COM7-Handshaking",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER CHANNEL SYNC",
+    "Transmitted Light-State",
+    "pE300-IntensityB",
+    "HamamatsuHam_DCAM-PixelType",
+    "IL-Turret-State",
+    "Core-Initialize",
+    "Adaptive Focus Control-LockThreshold",
+    "IL-Turret-Name",
+    "pE300-IntensityC",
+    "Scope-Microscope Stand",
+    "COM7-StopBits",
+    "Transmitted Light-Name",
+    "HamamatsuHam_DCAM-Camera Version",
+    "pE300-Lock Pod",
+    "SidePort-Label",
+    "Core-Shutter"
+  ],
+  "UserData": {},
+  "FileName": "Pos12/img_channel001_position012_time000000000_z000.tif"
+},
+"Coords-Pos12/img_channel002_position012_time000000000_z000.tif": {
+  "Frame": 0,
+  "FrameIndex": 0,
+  "PositionIndex": 12,
+  "Slice": 0,
+  "SliceIndex": 0,
+  "ChannelIndex": 2
+},
+"Metadata-Pos12/img_channel002_position012_time000000000_z000.tif": {
+  "Width": 2048,
+  "Height": 2048,
+  "PixelType": "GRAY16",
+  "Frame": 0,
+  "FrameIndex": 0,
+  "PositionIndex": 12,
+  "Slice": 0,
+  "SliceIndex": 0,
+  "ChannelIndex": 2,
+  "UUID": "8c194574-528d-46e4-a332-8a56a3180cb2",
+  "Camera": "HamamatsuHam_DCAM",
+  "Binning": 1,
+  "ROI": "0-0-2048-2048",
+  "BitDepth": 16,
+  "Exposure-ms": 600.1227,
+  "ElapsedTime-ms": 65118.0,
+  "ReceivedTime": "2021-02-23 11:06:35.398 +0100",
+  "PixelSizeUm": 0.0,
+  "PixelSizeAffine": "0.0;0.0;0.0;0.0;0.0;0.0",
+  "PositionName": "Pos12",
+  "XPositionUm": -8420.2998046875,
+  "YPositionUm": 2238.89990234375,
+  "ZPositionUm": 9582.907720000001,
+  "SidePort-Name": "Side Port",
+  "TL-Shutter-Name": "",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[2]": "0.0010",
+  "COM2-Description": "Serial port driver (boost:asio)",
+  "IL-Turret-Label": "2-gfpm_cherry",
+  "DIC Turret-Description": "DIC Prism Turret",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[1]": "0.0010",
+  "COM4-Description": "Serial port driver (boost:asio)",
+  "HamamatsuHam_DCAM-CameraID": "S/N: 100615",
+  "COM2-DelayBetweenCharsMs": "0.0000",
+  "HamamatsuHam_DCAM-Driver Version": "1.2.6.5609",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[0]": "0.0010",
+  "COM4-StopBits": "1",
+  "HamamatsuHam_DCAM-TransposeMirrorX": "0",
+  "FastFilterWheel-Filter Wheel ID": "0",
+  "HamamatsuHam_DCAM-ScanMode": "1",
+  "COM7-Name": "COM7",
+  "HamamatsuHam_DCAM-ReadoutTime": "0.0333",
+  "Scope-Description": "Leica microscope CAN bus adapter",
+  "HamamatsuHam_DCAM-TransposeMirrorY": "0",
+  "HamamatsuHam_DCAM-EXPOSURE FULL RANGE": "DISABLE",
+  "pE300-Global State": "0",
+  "pE300-SelectionA": "0",
+  "Scope-Name": "Scope",
+  "HamamatsuHam_DCAM-VIEW CONTROL": "FULL CHIP",
+  "COM7-Parity": "None",
+  "COM4-DelayBetweenCharsMs": "0.0000",
+  "COM2-StopBits": "1",
+  "COM4-Name": "COM4",
+  "Core-ImageProcessor": "",
+  "pE300-SelectionB": "0",
+  "COM7-BaudRate": "9600",
+  "HamamatsuHam_DCAM-TRIGGER SOURCE": "INTERNAL",
+  "COM7-Description": "Serial port driver (boost:asio)",
+  "DIC Turret-Name": "DIC Turret",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[2]": "READOUT END",
+  "pE300-SelectionC": "1",
+  "Core-SLM": "",
+  "COM2-Verbose": "1",
+  "HamamatsuHam_DCAM-TriggerPolarity": "NEGATIVE",
+  "HamamatsuHam_DCAM-Module Version": "18.8.642.5609",
+  "HamamatsuHam_DCAM-DEFECT CORRECT MODE": "ON",
+  "COM2-Name": "COM2",
+  "COM7-DelayBetweenCharsMs": "0.0000",
+  "SidePort-Description": "Side Port",
+  "COM4-Parity": "None",
+  "COM7-DataBits": "8",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[1]": "READOUT END",
+  "HamamatsuHam_DCAM-SENSOR MODE": "AREA",
+  "COM2-AnswerTimeout": "500.0000",
+  "TL-Shutter-Description": "",
+  "Adaptive Focus Control-DichroicMirrorIn": "1",
+  "HamamatsuHam_DCAM-Camera Bus": "USB3",
+  "COM4-Verbose": "1",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[2]": "0.0000",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[0]": "READOUT END",
+  "Transmitted Light-Description": "",
+  "COM4-BaudRate": "9600",
+  "TLPolarizer-State": "1",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[1]": "0.0000",
+  "Transmitted Light-Control": "Manual",
+  "COM4-AnswerTimeout": "500.0000",
+  "HamamatsuHam_DCAM-Exposure": "600.12",
+  "COM2-Parity": "None",
+  "IL-Turret-Description": "Incident Light Reflector Turret",
+  "COM2-BaudRate": "9600",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[0]": "0.0000",
+  "Core-Focus": "FocusDrive",
+  "COM4-DataBits": "8",
+  "Core-ChannelGroup": "CHANNELS",
+  "Adaptive Focus Control-LEDIntensity": "39",
+  "Scope-AnswerTimeOut": "250.0000",
+  "COM7-Verbose": "1",
+  "TLPolarizer-Label": "In",
+  "FastFilterWheel-State": "0",
+  "COM7-AnswerTimeout": "500.0000",
+  "FocusDrive-Speed": "8820000",
+  "XYStage-Description": "Tango XY stage driver adapter",
+  "COM2-DataBits": "8",
+  "pE300-Description": "CoolLED pE300. Mainboard: v2.2.9\r Pod: v2.0.1\r",
+  "Condensor-Name": "Condensor turret",
+  "HamamatsuHam_DCAM-Name": "HamamatsuHam_DCAM",
+  "ObjectiveTurret-State": "1",
+  "Adaptive Focus Control-Name": "Adaptive Focus Control",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[2]": "LOW",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY UNITS": "SECONDS",
+  "XYStage-StepSizeY [um]": "0.0024",
+  "ObjectiveTurret-Immersion Medium": "Dry",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[1]": "LOW",
+  "FastFilterWheel-Label": "Red",
+  "Core-XYStage": "XYStage",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[0]": "LOW",
+  "Condensor-State": "3",
+  "ObjectiveTurret-Name": "Objective turret",
+  "XYStage-StepSizeX [um]": "0.0024",
+  "Adaptive Focus Control Offset-Name": "Adaptive Focus Control Offset",
+  "pE300-Port": "COM4",
+  "Core-AutoShutter": "1",
+  "HamamatsuHam_DCAM-TRIGGER ACTIVE": "EDGE",
+  "Transmitted Light-Level": "116",
+  "XYStage-TransposeMirrorX": "0",
+  "HamamatsuHam_DCAM-CONVERSION FACTOR COEFF": "0.4700",
+  "COM7-Fast USB to Serial": "Disable",
+  "ObjectiveTurret-Label": "2-10x 0.32na",
+  "XYStage-Backlash Y [um]": "0.0000",
+  "FastFilterWheel-Name": "FastFilterWheel",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[2]": "NEGATIVE",
+  "XYStage-TransposeMirrorY": "0",
+  "XYStage-Backlash X [um]": "0.0000",
+  "XYStage-Port": "COM2",
+  "HamamatsuHam_DCAM-CameraName": "C11440-42U",
+  "Scope-Microscope Firmware": "XE167FH200F100L_MASTER.HEX V02.41.8451",
+  "Condensor-Label": "2-K6",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[1]": "NEGATIVE",
+  "TL-ApertureDiaphragm-Position": "24",
+  "COM4-Fast USB to Serial": "Disable",
+  "Core-Camera": "HamamatsuHam_DCAM",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[0]": "NEGATIVE",
+  "TLPolarizer-Description": "Transmitted light Polarizer",
+  "HamamatsuHam_DCAM-EXPOSURE TIME UNITS": "MILLISECONDS",
+  "TLPolarizer-Name": "TL Polarizer",
+  "Adaptive Focus Control-FullFocusTime": "300",
+  "TL-ApertureDiaphragm-Name": "TL-ApertureDiaphragm",
+  "HamamatsuHam_DCAM-READOUT DIRECTION": "DIVERGE",
+  "HamamatsuHam_DCAM-TransposeCorrection": "0",
+  "DIC Turret-Prism Fine Position": "0.0000",
+  "Adaptive Focus Control-Offset": "0.0000",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD UNITS": "SECONDS",
+  "COM2-Fast USB to Serial": "Disable",
+  "HamamatsuHam_DCAM-Trigger": "NORMAL",
+  "DIC Turret-State": "3",
+  "FastFilterWheel-Description": "Fast Filter Wheel",
+  "ObjectiveTurret-Article Number": "11506521",
+  "Adaptive Focus Control Offset-Description": "Leica Adaptive Focus Control Offset",
+  "COM2-Handshaking": "Off",
+  "HamamatsuHam_DCAM-TransposeXY": "0",
+  "ObjectiveTurret-Description": "Objective Turret",
+  "DIC Turret-Label": "2-D",
+  "HamamatsuHam_DCAM-Binning": "1x1",
+  "HamamatsuHam_DCAM-TRIGGER DELAY": "0.0000",
+  "Core-TimeoutMs": "5000",
+  "Scope-Port": "COM7",
+  "HamamatsuHam_DCAM-TRIGGER GLOBAL EXPOSURE": "DELAYED",
+  "Scope-Method": "FLUO",
+  "Adaptive Focus Control-Description": "Leica Adaptive Focus Control (Hardware autofocus)",
+  "COM4-Handshaking": "Off",
+  "HamamatsuHam_DCAM-Description": "Hamamatsu device adapter 1.9.2.56",
+  "Condensor-Description": "Conensor Turret",
+  "pE300-Name": "pE300",
+  "HamamatsuHam_DCAM-MINIMUM ACQUISITION TIMEOUT": "60000",
+  "XYStage-Name": "XYStage",
+  "XYStage-Acceleration X [m/s^2]": "0.1200",
+  "FocusDrive-Acceleration": "3612",
+  "Core-AutoFocus": "Adaptive Focus Control",
+  "HamamatsuHam_DCAM-CONVERSION FACTOR OFFSET": "100.0000",
+  "SidePort-State": "0",
+  "HamamatsuHam_DCAM-VIEW MODE": "FULL CHIP",
+  "XYStage-Acceleration Y [m/s^2]": "0.1200",
+  "HamamatsuHam_DCAM-TRIGGER TIMES": "1",
+  "XYStage-SpeedY [mm/s]": "120.0000",
+  "TL-Shutter-State": "0",
+  "pE300-IntensityA": "0",
+  "Core-Galvo": "",
+  "XYStage-SpeedX [mm/s]": "120.0000",
+  "COM7-Handshaking": "Off",
+  "HamamatsuHam_DCAM-OUTPUT TRIGGER CHANNEL SYNC": "1 CHANNEL",
+  "Transmitted Light-State": "0",
+  "pE300-IntensityB": "2",
+  "HamamatsuHam_DCAM-PixelType": "16bit",
+  "IL-Turret-State": "1",
+  "Core-Initialize": "1",
+  "Adaptive Focus Control-LockThreshold": "3.0000",
+  "IL-Turret-Name": "Dichroics turret",
+  "pE300-IntensityC": "15",
+  "Scope-Microscope Stand": "DMI8",
+  "COM7-StopBits": "1",
+  "Transmitted Light-Name": "",
+  "HamamatsuHam_DCAM-Camera Version": "3.20.A",
+  "pE300-Lock Pod": "0",
+  "SidePort-Label": "1",
+  "Core-Shutter": "pE300",
+  "ScopeDataKeys": [
+    "SidePort-Name",
+    "TL-Shutter-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[2]",
+    "COM2-Description",
+    "IL-Turret-Label",
+    "DIC Turret-Description",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[1]",
+    "COM4-Description",
+    "HamamatsuHam_DCAM-CameraID",
+    "COM2-DelayBetweenCharsMs",
+    "HamamatsuHam_DCAM-Driver Version",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD[0]",
+    "COM4-StopBits",
+    "HamamatsuHam_DCAM-TransposeMirrorX",
+    "FastFilterWheel-Filter Wheel ID",
+    "HamamatsuHam_DCAM-ScanMode",
+    "COM7-Name",
+    "HamamatsuHam_DCAM-ReadoutTime",
+    "Scope-Description",
+    "HamamatsuHam_DCAM-TransposeMirrorY",
+    "HamamatsuHam_DCAM-EXPOSURE FULL RANGE",
+    "pE300-Global State",
+    "pE300-SelectionA",
+    "Scope-Name",
+    "HamamatsuHam_DCAM-VIEW CONTROL",
+    "COM7-Parity",
+    "COM4-DelayBetweenCharsMs",
+    "COM2-StopBits",
+    "COM4-Name",
+    "Core-ImageProcessor",
+    "pE300-SelectionB",
+    "COM7-BaudRate",
+    "HamamatsuHam_DCAM-TRIGGER SOURCE",
+    "COM7-Description",
+    "DIC Turret-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[2]",
+    "pE300-SelectionC",
+    "Core-SLM",
+    "COM2-Verbose",
+    "HamamatsuHam_DCAM-TriggerPolarity",
+    "HamamatsuHam_DCAM-Module Version",
+    "HamamatsuHam_DCAM-DEFECT CORRECT MODE",
+    "COM2-Name",
+    "COM7-DelayBetweenCharsMs",
+    "SidePort-Description",
+    "COM4-Parity",
+    "COM7-DataBits",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[1]",
+    "HamamatsuHam_DCAM-SENSOR MODE",
+    "COM2-AnswerTimeout",
+    "TL-Shutter-Description",
+    "Adaptive Focus Control-DichroicMirrorIn",
+    "HamamatsuHam_DCAM-Camera Bus",
+    "COM4-Verbose",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[2]",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER SOURCE[0]",
+    "Transmitted Light-Description",
+    "COM4-BaudRate",
+    "TLPolarizer-State",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[1]",
+    "Transmitted Light-Control",
+    "COM4-AnswerTimeout",
+    "HamamatsuHam_DCAM-Exposure",
+    "COM2-Parity",
+    "IL-Turret-Description",
+    "COM2-BaudRate",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY[0]",
+    "Core-Focus",
+    "COM4-DataBits",
+    "Core-ChannelGroup",
+    "Adaptive Focus Control-LEDIntensity",
+    "Scope-AnswerTimeOut",
+    "COM7-Verbose",
+    "TLPolarizer-Label",
+    "FastFilterWheel-State",
+    "COM7-AnswerTimeout",
+    "FocusDrive-Speed",
+    "XYStage-Description",
+    "COM2-DataBits",
+    "pE300-Description",
+    "Condensor-Name",
+    "HamamatsuHam_DCAM-Name",
+    "ObjectiveTurret-State",
+    "Adaptive Focus Control-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[2]",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER DELAY UNITS",
+    "XYStage-StepSizeY [um]",
+    "ObjectiveTurret-Immersion Medium",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[1]",
+    "FastFilterWheel-Label",
+    "Core-XYStage",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER KIND[0]",
+    "Condensor-State",
+    "ObjectiveTurret-Name",
+    "XYStage-StepSizeX [um]",
+    "Adaptive Focus Control Offset-Name",
+    "pE300-Port",
+    "Core-AutoShutter",
+    "HamamatsuHam_DCAM-TRIGGER ACTIVE",
+    "Transmitted Light-Level",
+    "XYStage-TransposeMirrorX",
+    "HamamatsuHam_DCAM-CONVERSION FACTOR COEFF",
+    "COM7-Fast USB to Serial",
+    "ObjectiveTurret-Label",
+    "XYStage-Backlash Y [um]",
+    "FastFilterWheel-Name",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[2]",
+    "XYStage-TransposeMirrorY",
+    "XYStage-Backlash X [um]",
+    "XYStage-Port",
+    "HamamatsuHam_DCAM-CameraName",
+    "Scope-Microscope Firmware",
+    "Condensor-Label",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[1]",
+    "TL-ApertureDiaphragm-Position",
+    "COM4-Fast USB to Serial",
+    "Core-Camera",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER POLARITY[0]",
+    "TLPolarizer-Description",
+    "HamamatsuHam_DCAM-EXPOSURE TIME UNITS",
+    "TLPolarizer-Name",
+    "Adaptive Focus Control-FullFocusTime",
+    "TL-ApertureDiaphragm-Name",
+    "HamamatsuHam_DCAM-READOUT DIRECTION",
+    "HamamatsuHam_DCAM-TransposeCorrection",
+    "DIC Turret-Prism Fine Position",
+    "Adaptive Focus Control-Offset",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER PERIOD UNITS",
+    "COM2-Fast USB to Serial",
+    "HamamatsuHam_DCAM-Trigger",
+    "DIC Turret-State",
+    "FastFilterWheel-Description",
+    "ObjectiveTurret-Article Number",
+    "Adaptive Focus Control Offset-Description",
+    "COM2-Handshaking",
+    "HamamatsuHam_DCAM-TransposeXY",
+    "ObjectiveTurret-Description",
+    "DIC Turret-Label",
+    "HamamatsuHam_DCAM-Binning",
+    "HamamatsuHam_DCAM-TRIGGER DELAY",
+    "Core-TimeoutMs",
+    "Scope-Port",
+    "HamamatsuHam_DCAM-TRIGGER GLOBAL EXPOSURE",
+    "Scope-Method",
+    "Adaptive Focus Control-Description",
+    "COM4-Handshaking",
+    "HamamatsuHam_DCAM-Description",
+    "Condensor-Description",
+    "pE300-Name",
+    "HamamatsuHam_DCAM-MINIMUM ACQUISITION TIMEOUT",
+    "XYStage-Name",
+    "XYStage-Acceleration X [m/s^2]",
+    "FocusDrive-Acceleration",
+    "Core-AutoFocus",
+    "HamamatsuHam_DCAM-CONVERSION FACTOR OFFSET",
+    "SidePort-State",
+    "HamamatsuHam_DCAM-VIEW MODE",
+    "XYStage-Acceleration Y [m/s^2]",
+    "HamamatsuHam_DCAM-TRIGGER TIMES",
+    "XYStage-SpeedY [mm/s]",
+    "TL-Shutter-State",
+    "pE300-IntensityA",
+    "Core-Galvo",
+    "XYStage-SpeedX [mm/s]",
+    "COM7-Handshaking",
+    "HamamatsuHam_DCAM-OUTPUT TRIGGER CHANNEL SYNC",
+    "Transmitted Light-State",
+    "pE300-IntensityB",
+    "HamamatsuHam_DCAM-PixelType",
+    "IL-Turret-State",
+    "Core-Initialize",
+    "Adaptive Focus Control-LockThreshold",
+    "IL-Turret-Name",
+    "pE300-IntensityC",
+    "Scope-Microscope Stand",
+    "COM7-StopBits",
+    "Transmitted Light-Name",
+    "HamamatsuHam_DCAM-Camera Version",
+    "pE300-Lock Pod",
+    "SidePort-Label",
+    "Core-Shutter"
+  ],
+  "UserData": {},
+  "FileName": "Pos12/img_channel002_position012_time000000000_z000.tif"
+}
+}
